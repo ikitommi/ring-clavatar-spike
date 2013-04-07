@@ -15,7 +15,7 @@
   (GET "/gravatar" {:keys [params]}
     (html [:html
            [:body
-            [:pre (:doc (meta #'gravatar))]
+            [:pre (:doc (meta #'clavatar/gravatar))]
             [:img {:src (gravatar params)}]]]))
   (route/not-found "Not Found"))
 
