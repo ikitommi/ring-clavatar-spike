@@ -1,6 +1,6 @@
-# gravatar
+# Ring-clavatar-spike
 
-Showing gravatars from ring-app
+Spiking how to show gravatars from a ring-app.
 
 ## Running
 
